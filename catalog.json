@@ -3,7 +3,7 @@
 		"id": "test_pack",
 		"display_name": "Test Pack",
 		"description": "A test DLC to verify the download pipeline works.",
-		"download_url": "http://127.0.0.1:8000/files/test_pack.zip",
+		"download_url": "https://dostowari-lgtm.github.io/Despair-DLC/files/test_pack.zip",
 		"is_pck": false,
 		"size_mb": 0.01
 	},
