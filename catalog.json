@@ -6,21 +6,5 @@
 		"download_url": "https://dostowari-lgtm.github.io/Despair-DLC/files/test_pack.zip",
 		"is_pck": false,
 		"size_mb": 0.01
-	},
-	{
-		"id": "audio_log_expansion",
-		"display_name": "Extended Audio Logs",
-		"description": "Adds a dozen new blackbox recordings throughout the facility.",
-		"download_url": "http://127.0.0.1:8000/files/audio_log_expansion.zip",
-		"is_pck": false,
-		"size_mb": 4.2
-	},
-	{
-		"id": "chapter_2_area",
-		"display_name": "Chapter 2: Deeper",
-		"description": "A new section of the facility, with a new enemy.",
-		"download_url": "http://127.0.0.1:8000/files/chapter_2_area.pck",
-		"is_pck": true,
-		"size_mb": 340
 	}
 ]
